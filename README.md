@@ -6,7 +6,7 @@
 
 ## Procedure
 - Write a program in go using net/http package.
-- Use either Post or NewRequest function in which the kubo RPC API URL for the respecive IPFS command passed (here, ipfs files read --offset --count).
+- Use either "Post" or "NewRequest" function in which the kubo RPC API URL for the respective IPFS command passed (here, ipfs files read --offset --count).
 - Now, execute "go run" command for the program written.
 - The IPFS command is called using http request.
 
@@ -15,10 +15,10 @@
 
 ## Program
 
-![Screenshot (93)](https://github.com/gayathrisuresh150501/go-http/assets/77912752/052b4daa-13c5-488b-b298-ce0f7ae48e80)
+![Screenshot (95)](https://github.com/gayathrisuresh150501/go-http/assets/77912752/44f152d5-b5b2-46cc-aa8c-f12bd539fb6c)
 
 
 
 ## Output
 
-![Screenshot (94)](https://github.com/gayathrisuresh150501/go-http/assets/77912752/a40cb73e-18d5-448d-a3ca-ce20082d1777)
+![Screenshot (96)](https://github.com/gayathrisuresh150501/go-http/assets/77912752/1330ee7b-f63c-41be-a9e4-a1f2133be54b)
